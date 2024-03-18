@@ -4,16 +4,16 @@
   "default_refiner_switch": 0.65,
   "default_loras": [
     [
-      "monochromeXL.safetensors",
+      "None",
       1.0
     ],
     [
-      "Cinematic Film.safetensors",
-      0.50
+      "None",
+      1.0
     ],
     [
-      "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-      0.25
+      "None",
+      1
     ],
     [
       "None",
